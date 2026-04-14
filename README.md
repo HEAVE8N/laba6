@@ -144,7 +144,7 @@
 
 
 
-![Pasted image image/lb6.2.png](https://github.com/HEAVE8N/laba6/blob/main/Image/lb6.2.png)
+![Pasted image lb6.2.png](https://github.com/HEAVE8N/laba6/blob/main/Image/lb6.2.png)
 
 
 
@@ -228,5 +228,5 @@
 
 ### Тестирование
 
-![Pasted image image/lb6.2.png](https://github.com/HEAVE8N/laba6/blob/main/Image/lb6.2.png)
+![Pasted image lb6.2.png](https://github.com/HEAVE8N/laba6/blob/main/Image/lb6.2.png)
 
