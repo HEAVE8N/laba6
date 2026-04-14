@@ -78,7 +78,7 @@
 
 
 
-![Pasted image image/lb6.1.png](https://github.com/HEAVE8N/laba6/blob/main/Image/lb6.1.png)
+![Pasted image lb6.1.png](https://github.com/HEAVE8N/laba6/blob/main/Image/lb6.1.png)
 
 
 
